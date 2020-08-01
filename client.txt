@@ -1,1 +1,1 @@
-looksed:
+/cmds
